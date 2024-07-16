@@ -1,0 +1,1161 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(499,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  dllmain.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  aimbot.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\aimbot\aimbot.cpp(318,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\aimbot\aimbot.cpp(332,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\aimbot\aimbot.cpp(447,157): warning C4018: '>': signed/unsigned mismatch
+  autowall.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\aimbot\autowall.cpp(330,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  events.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+  jumpstats.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\jumpstats.cpp(75,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\jumpstats.cpp(166,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\jumpstats.cpp(171,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\jumpstats.cpp(171,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\jumpstats.cpp(174,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\jumpstats.cpp(181,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\jumpstats.cpp(211,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\jumpstats.cpp(214,50): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\jumpstats.cpp(220,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  misc.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\misc.cpp(9,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\misc.cpp(21,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\misc.cpp(22,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\misc.cpp(77,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\misc.cpp(126,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\misc.cpp(320,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\misc.cpp(322,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\misc.cpp(323,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\misc.cpp(324,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\misc\misc.cpp(325,99): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  movement.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(502,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(507,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(522,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(607,2): warning C4551: function call missing argument list
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(747,2): warning C4551: function call missing argument list
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(788,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(830,159): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(830,219): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(830,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(831,155): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(831,213): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(831,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(878,151): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(878,214): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(878,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(879,147): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(879,210): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(879,75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(935,157): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(935,208): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(935,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(936,153): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(936,202): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(936,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(965,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(965,18): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(983,28): warning C4244: 'argument': conversion from 'const float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(1005,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(1006,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(1008,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(1009,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(1028,179): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(1028,135): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(1028,91): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(1052,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(1053,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(1055,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(1056,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(1075,180): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(1075,137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(1075,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  prediction.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+  scripts.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(45,28): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(179,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(179,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(179,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(179,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(185,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(185,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(185,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(185,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(191,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(191,52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(191,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(191,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(194,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(194,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(217,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\scripts\scripts.cpp(217,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  knife_proxy.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+  parser.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+  skins.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  chams.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\chams.cpp(338,23): warning C4018: '<': signed/unsigned mismatch
+  visuals.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(89,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(136,101): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(146,93): warning C4244: 'argument': conversion from 'float' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(146,175): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(146,34): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(149,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(149,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(164,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(166,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(166,35): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(174,56): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(173,43): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(177,105): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(196,162): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(196,124): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(196,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(203,173): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(203,135): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(203,97): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(299,194): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(299,149): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(299,104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(307,259): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(307,213): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(307,167): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(312,241): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(312,195): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(312,149): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(334,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(343,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(343,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(371,66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(371,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(371,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(371,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(424,170): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(424,133): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(424,96): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(424,292): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(424,254): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(424,216): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(667,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(668,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(669,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(819,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(894,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(900,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(901,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(902,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(903,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(915,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(917,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(919,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(920,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\visuals\visuals.cpp(921,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  create_move.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  d3d.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\hooks\functions\d3d.cpp(148,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\hooks\functions\d3d.cpp(149,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  do_post_screen_effects.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  draw_model_execute.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  emit_sound.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  frame_stage_notify.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Compiling...
+  get_color_modulation.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  get_screen_aspect_ratio.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  is_using_static_prop_debug_modes.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  lock_cursor.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  modify_eye_position.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  on_screen_size_changed.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+  override_mouse_input.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  override_view.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  paint_traverse.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+  send_datagram.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\hooks\functions\send_datagram.cpp(14,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  vsnprintf.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+  hooks.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_stdlib.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Compiling...
+  imgui_freetype.cpp
+  config.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  menu.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\panorama\scaleform.hpp(10,17): warning C4099: 'IUIPanel': type name first seen using 'class' now seen using 'struct'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\interfaces\panorama.hpp(127): message : see declaration of 'IUIPanel'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\panorama\scaleform.hpp(11,17): warning C4099: 'player_t': type name first seen using 'class' now seen using 'struct'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\sdk.hpp(608): message : see declaration of 'player_t'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\panorama\scaleform.hpp(12,21): warning C4099: 'i_game_event': type name first seen using 'class' now seen using 'struct'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\interfaces\i_game_event_manager.hpp(10): message : see declaration of 'i_game_event'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\menu.cpp(41,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\menu.cpp(42,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\menu.cpp(47,54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\menu.cpp(76,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\menu.cpp(76,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\menu.cpp(312,44): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\menu.cpp(1208,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\menu.cpp(1222,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\menu.cpp(1351,95): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  vec3.cpp
+  view_matrix.cpp
+  netvars.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+  sdk.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+  render.cpp
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\classes\convar.hpp(63,34): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(25,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(24,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(23,18): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\structs\color.hpp(22,30): warning C4244: 'argument': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(40,41): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\sdk\math\math.hpp(43,41): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\julio\Desktop\Main\Projects\delusional-master\menu\config\config.hpp(334,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\utils\render\render.cpp(176,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\utils\render\render.cpp(183,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\utils\render\render.cpp(183,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\utils\render\render.cpp(183,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\julio\Desktop\Main\Projects\delusional-master\utils\render\render.cpp(183,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  lapi.c
+C:\Users\julio\Desktop\Main\Projects\delusional-master\includes\lua\src\lapi.c(398,29): warning C4244: 'return': conversion from 'lua_Unsigned' to 'size_t', possible loss of data
+  lauxlib.c
+  lbaselib.c
+  lbitlib.c
+  lcode.c
+  lcorolib.c
+  lctype.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  linit.c
+  liolib.c
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  Compiling...
+  lopcodes.c
+  loslib.c
+  lparser.c
+  lstate.c
+  lstring.c
+  lstrlib.c
+  ltable.c
+  ltablib.c
+  ltm.c
+  lua.c
+  lundump.c
+  lutf8lib.c
+  lvm.c
+  lzio.c
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\skins\knife_proxy.cpp(138): warning C4715: '<lambda_8>::operator()': not all control paths return a value
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\skins\knife_proxy.cpp(130): warning C4715: '<lambda_7>::operator()': not all control paths return a value
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\skins\skins.cpp(13): warning C4715: 'get_wearable_create_fn': not all control paths return a value
+C:\Users\julio\Desktop\Main\Projects\delusional-master\features\movement\movement.cpp(801): warning C4715: '`sdk::features::movement::velocity_indicator'::`5'::<lambda_1>::operator()': not all control paths return a value
+  All 14769 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  delusional.vcxproj -> C:\Users\julio\Desktop\Main\Projects\delusional-master\bin\dev\dev.dll
